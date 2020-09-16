@@ -1,0 +1,69 @@
+.form-error {
+  color: red;
+}
+
+.text-underline {
+  text-decoration: underline !important;
+}
+
+.react-notification-root {
+  z-index: 99999 !important;
+}
+
+.active-nav {
+  color: #ee6161 !important;
+}
+
+.modal {
+  z-index: 9999 !important;
+}
+
+.react-confirm-alert-overlay{
+  z-index: 99999 !important;
+}
+
+.react-confirm-alert-body > h1 {
+  font-size: 1.5rem !important;
+}
+
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
+@media (min-width: 768px) {
+  .col-md-6-5 {
+    flex: 0 0 54%;
+    max-width: 54%;
+  }
+}
+
+.sun-editor {
+  font-family: unset !important;
+}
+
+.reprivataLogo {
+  width: 100%;
+}
+
+.col-p3 {
+  position: relative;
+  width: 100%;
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
+}
+
+.col-p3 {
+  flex: 0 0 3.33333%;
+  max-width: 3.33333%;
+}
+
+.sun-editor .se-resizing-bar {
+  display: none !important;
+}
+
+h6.navigation-heading {
+  color: #6e48aa;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
